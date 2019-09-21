@@ -1,2 +1,1 @@
-# momeryCard
-momery card
+memory card
